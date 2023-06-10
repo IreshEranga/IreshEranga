@@ -7,6 +7,10 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=170&vCenter=true&lines=I'm+Iresh;From+Sri+Lanka" > </h1>
 
+
+[![wakatime](https://wakatime.com/badge/user/f9739902-7539-4da9-8836-8c1a4cd952fc/project/a02e13f6-12f0-490e-870e-48a73013225b.svg)](https://wakatime.com/badge/user/f9739902-7539-4da9-8836-8c1a4cd952fc/project/a02e13f6-12f0-490e-870e-48a73013225b)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IreshEranga&label=Profile%20views&color=0e75b6&style=flat" alt="IreshEranga" /> </p>
 
 <p align="left"> <a href="https://github.com/IreshEranga" target="blank"><img src="https://img.shields.io/github/followers/IreshEranga?label=Follow&style=social" alt="iresh eranga" /></a> </p>
