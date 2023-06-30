@@ -15,9 +15,9 @@
 
 <p align="left"> <a href="https://github.com/IreshEranga" target="blank"><img src="https://img.shields.io/github/followers/IreshEranga?label=Follow&style=social" alt="iresh eranga" /></a> </p>
 
-- 🌱 I’m currently learning **PHP, MYSQL**
+- 🌱 I’m currently learning **JAVA**
 
-- 💬 Ask me about **C, C++,HTML, CSS, JavaScript**
+- 💬 Ask me about **C, C++, HTML, CSS, JavaScript, PHP, MySQL**
 
 - 📫 How to reach me **iresheranga2020al@gmail.com**
 
