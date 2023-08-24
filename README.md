@@ -24,8 +24,8 @@
 <h3 align="left">Connect with me:</h3><br>
 <p align="left">
 <a href="https://www.linkedin.com/in/iresh-eranga/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Iresh Eranga" height="30" width="100" /></a>
-</p>
-<a href="https://stackoverflow.com/users/21389847" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21389847" height="30" width="40" /></a>
+</p> <br>
+<a href="https://stackoverflow.com/users/21389847" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21389847" height="30" width="40" /></a> <br>
 
 <a href="https://fb.com/https://www.facebook.com/iresh.eranga.336?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/iresh.eranga.336?mibextid=zbwkwl" height="30" width="40" /></a>
 
