@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=170&vCenter=true&lines=I'm+Iresh;From+Sri+Lanka" > </h1>
 
 <br>
-[![wakatime](https://wakatime.com/badge/user/f9739902-7539-4da9-8836-8c1a4cd952fc.svg)](https://wakatime.com/@f9739902-7539-4da9-8836-8c1a4cd952fc)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IreshEranga&label=Profile%20views&color=0e75b6&style=flat" alt="IreshEranga" /> </p>
