@@ -19,7 +19,7 @@
 
 <p align="left"> <a href="https://github.com/IreshEranga" target="blank"><img src="https://img.shields.io/github/followers/IreshEranga?label=Follow&style=social" alt="iresh eranga" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA, MERN Stack**
+- 🌱 I’m currently learning **JAVA, MERN Stack, Python**
 
 - 💬 Ask me about **C, C++, HTML, CSS, JavaScript, PHP, MySQL**
 
