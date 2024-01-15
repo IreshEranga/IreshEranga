@@ -14,7 +14,7 @@
 <br>
 
 
-[![wakatime](https://wakatime.com/badge/user/f9739902-7539-4da9-8836-8c1a4cd952fc/project/a007fcde-c7fb-4908-8294-4b9b7fe5a39f.svg)](https://wakatime.com/badge/user/f9739902-7539-4da9-8836-8c1a4cd952fc/project/a007fcde-c7fb-4908-8294-4b9b7fe5a39f) <br><br><br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IreshEranga&label=Profile%20views&color=0e75b6&style=flat" alt="IreshEranga" /> </p>
 
 <p align="left"> <a href="https://github.com/IreshEranga" target="blank"><img src="https://img.shields.io/github/followers/IreshEranga?label=Follow&style=social" alt="iresh eranga" /></a> </p>
