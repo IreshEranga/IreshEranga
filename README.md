@@ -1,8 +1,3 @@
-
-
-![Black Yellow Modern Programmer Online Portfolio](https://github.com/IreshEranga/IreshEranga/assets/117840288/d1afca03-1a7d-4edd-b73e-bc97143222c8)
-
-
 <h1 align="center">Hi 👋</h1>
 
 <h1 align="center">
