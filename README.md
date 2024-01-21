@@ -26,12 +26,12 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IreshEranga&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IreshEranga&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IreshEranga&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![]<a href="#"><img align="right" alt="Shabeer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreshEranga&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true" /></a>
 
 
 <p align="">
 
-  <a href="#"><img align="right" alt="Shabeer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreshEranga&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true" /></a>
+  
 <!-- <a href="#"><img align="right" height="200 alt="Shabeer's Top Languages" src="https://media.giphy.com/media/sCbpbwEz3ObZq6zdmM/giphy.gif" /></a>-->
 </p>
 
