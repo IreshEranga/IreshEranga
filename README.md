@@ -14,6 +14,8 @@
 
 <p align="left"> <a href="https://github.com/IreshEranga" target="blank"><img src="https://img.shields.io/github/followers/IreshEranga?label=Follow&style=social" alt="iresh eranga" /></a> </p>
 
+[![wakatime](https://wakatime.com/badge/user/f9739902-7539-4da9-8836-8c1a4cd952fc.svg)](https://wakatime.com/@f9739902-7539-4da9-8836-8c1a4cd952fc)
+
 # 💫 About Me:
 🌱 I’m currently learning JAVA, MERN Stack, Python<br><br>💬 Ask me about C, C++, HTML, CSS, JavaScript, PHP, MySQL<br><br>📫 How to reach me iresheranga2020al@gmail.com
 
