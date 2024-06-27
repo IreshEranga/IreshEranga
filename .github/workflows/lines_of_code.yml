@@ -32,7 +32,17 @@ jobs:
 
       - name: Update README
         run: |
+          LINES=$(jq .SUM.code cloc.json)
           sed -i "s|<!-- lines-of-code -->|<!-- lines-of-code -->\n![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-$LINES%20lines%20of%20code-blue)|" README.md
+          cat README.md
+          
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git commit -m 'Update lines of code in README'
+          git push
         env:
           CODE_GITHUB_TOKEN: ${{ secrets.CODE_GITHUB_TOKEN }}
           LINES: ${{ env.lines }}
