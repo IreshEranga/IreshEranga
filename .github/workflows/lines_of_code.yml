@@ -14,8 +14,10 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Install Cloc
-        run: sudo apt-get install cloc
+      - name: Install Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y cloc jq
 
       - name: Calculate Lines of Code
         run: cloc --json . > cloc.json
@@ -27,6 +29,6 @@ jobs:
       - name: Update README
         run: |
           LINES=$(jq .SUM.code cloc.json)
-          sed -i "s/<!-- lines-of-code -->/<!-- lines-of-code -->\nTotal lines of code: $LINES/" README.md
+          sed -i "s|<!-- lines-of-code -->|<!-- lines-of-code -->\n![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-$LINES%20lines%20of%20code-blue)|" README.md
         env:
           GITHUB_TOKEN: ${{ secrets.CODE_GITHUB_TOKEN }}
