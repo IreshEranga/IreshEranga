@@ -2,10 +2,11 @@ name: Update Lines of Code
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day at midnight
+    - cron: '*/1 * * * *'  # Runs every minute
   push:
     branches:
       - main  # Run workflow on push to the main branch
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
   update-readme:
@@ -27,10 +28,11 @@ jobs:
         run: |
           LINES=$(jq .SUM.code cloc.json)
           echo "lines=$LINES" >> $GITHUB_ENV
+          echo "Total lines of code: $LINES"
 
       - name: Update README
         run: |
           sed -i "s|<!-- lines-of-code -->|<!-- lines-of-code -->\n![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-$LINES%20lines%20of%20code-blue)|" README.md
         env:
           CODE_GITHUB_TOKEN: ${{ secrets.CODE_GITHUB_TOKEN }}
-          LINES: ${{ steps.loc.outputs.lines }}
+          LINES: ${{ env.lines }}
