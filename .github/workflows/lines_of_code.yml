@@ -38,11 +38,11 @@ jobs:
 
       - name: Commit changes
         env:
-          CODE_GITHUB_TOKEN: ${{ secrets.CODE_GITHUB_TOKEN }}
+          PAT: ${{ secrets.PAT }}
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add README.md
           git commit -m 'Update lines of code in README'
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
+          git remote set-url origin https://x-access-token:${PAT}@github.com/${{ github.repository }}
           git push
