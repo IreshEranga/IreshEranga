@@ -17,7 +17,7 @@
 [![wakatime](https://wakatime.com/badge/user/f9739902-7539-4da9-8836-8c1a4cd952fc.svg)](https://wakatime.com/@f9739902-7539-4da9-8836-8c1a4cd952fc)
 
 <!-- lines-of-code -->
-
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.6%20million%20lines%20of%20code-blue)
 
 # 💫 About Me:
 🌱 I’m currently learning JAVA, MERN Stack, Python<br><br>💬 Ask me about C, C++, HTML, CSS, JavaScript, PHP, MySQL<br><br>📫 How to reach me iresheranga2020al@gmail.com
