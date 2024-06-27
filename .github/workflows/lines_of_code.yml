@@ -24,11 +24,13 @@ jobs:
 
       - name: Get Lines of Code
         id: loc
-        run: echo "::set-output name=lines::$(jq .SUM.code cloc.json)"
+        run: |
+          LINES=$(jq .SUM.code cloc.json)
+          echo "lines=$LINES" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          LINES=$(jq .SUM.code cloc.json)
           sed -i "s|<!-- lines-of-code -->|<!-- lines-of-code -->\n![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-$LINES%20lines%20of%20code-blue)|" README.md
         env:
           CODE_GITHUB_TOKEN: ${{ secrets.CODE_GITHUB_TOKEN }}
+          LINES: ${{ steps.loc.outputs.lines }}
