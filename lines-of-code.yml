@@ -29,4 +29,4 @@ jobs:
           LINES=$(jq .SUM.code cloc.json)
           sed -i "s/<!-- lines-of-code -->/<!-- lines-of-code -->\nTotal lines of code: $LINES/" README.md
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CODE_GITHUB_TOKEN }}
