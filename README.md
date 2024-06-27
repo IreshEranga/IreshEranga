@@ -16,6 +16,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/f9739902-7539-4da9-8836-8c1a4cd952fc.svg)](https://wakatime.com/@f9739902-7539-4da9-8836-8c1a4cd952fc)
 
+<!-- lines-of-code -->
+
+
 # 💫 About Me:
 🌱 I’m currently learning JAVA, MERN Stack, Python<br><br>💬 Ask me about C, C++, HTML, CSS, JavaScript, PHP, MySQL<br><br>📫 How to reach me iresheranga2020al@gmail.com
 
