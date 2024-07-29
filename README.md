@@ -18,10 +18,6 @@
 
 
 
-
-<!-- lines-of-code -->
-[![Update Lines of Code](https://github.com/IreshEranga/IreshEranga/actions/workflows/update-readme.yml/badge.svg)](https://github.com/IreshEranga/IreshEranga/actions/workflows/update-readme.yml)
-
 # 💫 About Me:
 🌱 I’m currently learning JAVA, MERN Stack, Python<br><br>💬 Ask me about C, C++, HTML, CSS, JavaScript, PHP, MySQL<br><br>📫 How to reach me iresheranga2020al@gmail.com
 
