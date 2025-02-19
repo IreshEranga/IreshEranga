@@ -19,7 +19,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning Springboot & Flutter<br><br>💬 Ask me about C, C++, HTML, CSS, JavaScript, PHP, MySQL<br><br>📫 How to reach me iresheranga2020al@gmail.com
+🌱 I’m currently learning Springboot & Flutter<br><br>💬 Ask me about React, Angular, C, C++, HTML, CSS, JavaScript, PHP, MySQL<br><br>📫 How to reach me iresheranga2020al@gmail.com
 
 
 ## 🌐 Socials:
